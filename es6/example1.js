@@ -1,4 +1,4 @@
-import { number, increaseNumber } from './libs'
+import { number, increaseNumber } from './libs.js'
 
 console.log(number) //  0
 increaseNumber()
