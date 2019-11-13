@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "ls"
+    "exec:modules": "node --experimental-modules example1.js"
   },
   "author": "",
   "license": "ISC",
